@@ -28,3 +28,8 @@ By using BabyGrowth and providing your information, you authorize us to collect,
 
 International Transfers of Information
 Information may be processed, stored, and used outside of the country in which you are located. Data privacy laws vary acros
+
+#### Technical Support
+Please contact me if you have any questions.
+
+Email: chrisbrown@hotmail.com
